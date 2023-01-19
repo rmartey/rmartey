@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richmond Martey</h1>
 <h3 align="center">A Computer Science student and a software developer from Ghana</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rmartey&label=Profile%20views&color=0e75b6&style=flat" alt="rmartey" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rmartey&label=Profile%20views&color=0e75b6&style=algolia" alt="rmartey" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rmartey" alt="rmartey" /></a> </p>
 
